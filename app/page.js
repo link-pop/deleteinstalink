@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>DELETEINSTALINK</div>;
+  return <div>READY DELETEINSTALINK</div>;
 }
